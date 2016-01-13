@@ -1,3 +1,5 @@
 {
-  "url": "https://github.com/asaschachar/fantastic-chainsaw/releases/download/v0.1.2/DesktopTest.app.zip"
+  "url": "https://github.com/asaschachar/fantastic-chainsaw/releases/download/v0.1.2/DesktopTest.app.zip",
+  "name": "My Release Name",
+  "notes": "Theses are some release notes innit"
 }
